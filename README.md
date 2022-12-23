@@ -1,2 +1,2 @@
 # joonasmattinen.github.io
-bootstap sivu
+bootstrap sivu
